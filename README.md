@@ -18,4 +18,9 @@ git commit
 3. IZ
 4. Winona
 
+| Cat Child     | Likes         | Dislikes      |
+| ------------- | ------------- | ------------- |
+| Winona        | treats        | alone time    |
+| Penny         | laps          | my mom        |
+
 This site was built using [GitHub Pages](https://pages.github.com/)
