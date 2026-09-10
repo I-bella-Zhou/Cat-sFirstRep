@@ -13,7 +13,7 @@ git commit
 ```
 
 ### Household "Wyrdness" Ranking 
-1. MD
+1. MM
 2. Penny
 3. IZ
 4. Winona
